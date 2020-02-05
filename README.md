@@ -21,6 +21,6 @@ Following the [common templates for user stories](https://en.wikipedia.org/wiki/
 
 When joining a new team, I will be expected to inspect a lot of code that i've never seen before. Rather than having a team member explain every line for me, the best practice will be me dissecting the code, saving any questions for a member of your team.
 
-# Link To My Doc Is Here
+## Link To My Doc Is Here
 
-*Link
+https://docs.google.com/document/d/18zZpI-aAmhcCKNVPsEZCXNF59pIbEvFu_kQXsDlYDyE/edit?usp=sharing
